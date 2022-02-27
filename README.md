@@ -1,4 +1,5 @@
 # SmartCard
+SmartCard is an iOS RealityKit application designed to put card managment to rest through the power of Augmented Reality. A modern problem with an even more modern solution.
 
 ## About
 SmartCard is a tool that aims to redefine what a card can do. Using the quickly growing power of augmented reality, our application is able to put custom, informative overlays on some of the most frequently used cards in circulation. Whether it be a gift card, your Comet Card, or even your credit/debit cards, SmartCard can enhance the information gleaned with a quick and seamless scan from your phone. When shown a card in the camera view, SmartCard displays several useful pieces of information as well as further hyperlinks (as demonstrated in the demo). It gives valuable insight into the usage of your cards so as to enable better decisions in the future.
